@@ -29,10 +29,6 @@ jobs:
           plugin_people_limit: 28
           plugin_people_size: 28
           plugin_people_types: followers
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_traffic: yes
