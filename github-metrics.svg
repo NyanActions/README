@@ -3322,7 +3322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>octocat/Hello-World</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3356,7 +3356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brussell98/node-osu</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3398,7 +3398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>circleguard/circleguard</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3436,7 +3436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yt-dlp/yt-dlp</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3515,7 +3515,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Asia/Seoul</span>
-                <span>Last updated Tue, 25 May 2021 10:16:29 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Tue, 25 May 2021 11:16:01 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
