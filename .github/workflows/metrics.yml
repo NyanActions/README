@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
 
           # Options
-          user: KeepSOBP
+          user: aeongdesu
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
