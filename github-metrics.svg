@@ -2348,7 +2348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iot-salzburg/gpu-jupyter</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Leverage the flexibility of Jupyterlab through the power of your NVIDIA GPU to run your code from Tensorflow and Pytorch in collaborative notebooks on the GPU.</div>
@@ -2568,7 +2568,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2022, 05:11:15 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 16 Apr 2022, 06:09:41 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
