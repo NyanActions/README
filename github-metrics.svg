@@ -2358,7 +2358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keylase/nvidia-patch</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.</div>
@@ -2405,7 +2405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chiribear/Kariyu-Skins</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Here's all the skins Kariyu uses on stream! If you can't find the link let us know so we can provide it for you :&gt;</div>
@@ -2584,7 +2584,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2022, 01:13:40 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 02:12:50 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
