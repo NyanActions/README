@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RikkaApps/Shizuku</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.</div>
@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Aliucord/AliucordNative</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Native (Java) package for Aliucord React Native</div>
@@ -2559,7 +2559,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2022, 22:27:15 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 23:10:38 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
