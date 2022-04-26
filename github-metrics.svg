@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RikkaApps/Shizuku</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.</div>
@@ -2570,7 +2570,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2022, 13:22:19 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 26 Apr 2022, 14:14:17 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
