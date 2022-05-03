@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pming-kr/pming-content</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2395,7 +2395,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dimensionhq/fleet</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2458,7 +2458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>weekmail/node-jupyter-runner</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nodejs service to connect to a Jupyter instance and execute Javascript notebooks</div>
@@ -2505,7 +2505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tverous/pytorch-notebook</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker image with Jupyter, Pytorch and CUDA GPUs supports.</div>
@@ -2589,7 +2589,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2022, 04:08:56 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 4 May 2022, 05:11:38 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
