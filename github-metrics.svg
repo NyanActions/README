@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hustcc/timeago.js</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2396,7 +2396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hustcc/timeago</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>not-an-aardvark/git-delete-squashed</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Delete branches that have been squashed and merged into master</div>
@@ -2505,7 +2505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>onderceylan/pwa-asset-generator</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.</div>
@@ -2595,7 +2595,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2022, 03:14:59 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 25 May 2022, 04:08:59 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
