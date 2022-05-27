@@ -2348,7 +2348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aler9/rtsp-simple-server</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams</div>
@@ -2401,7 +2401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>warren-bank/HLS-Proxy</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node.js server to proxy HLS video streams</div>
@@ -2454,7 +2454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cs50/speller</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Checking Speller</div>
@@ -2501,7 +2501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sandeepyadav1478/Transfer-files-from-google-to-terabox-cloud</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Contains Google Colab code to transfer file between Google  and Terabox cloud storage.</div>
@@ -2585,7 +2585,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2022, 19:13:22 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 May 2022, 20:11:12 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
