@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CnC-Robert/revanced-cli-script</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Script that builds revanced. Java &amp; Android sdk included</div>
@@ -2375,7 +2375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lemniskett/archbox</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation.</div>
@@ -2428,7 +2428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tus/tus-js-client</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pure JavaScript client for the tus resumable upload protocol</div>
@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>23/resumable.js</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.</div>
@@ -2571,7 +2571,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2022, 09:59:45 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 30 May 2022, 12:09:08 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
