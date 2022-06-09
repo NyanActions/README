@@ -2343,7 +2343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pyouroboros/ouroboros</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically update running docker containers with newest available image</div>
@@ -2396,7 +2396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containrrr/watchtower</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A process for automating Docker container base image updates.</div>
@@ -2606,7 +2606,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jun 2022, 15:13:59 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 9 Jun 2022, 16:10:42 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
