@@ -2359,7 +2359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LonamiWebs/Telethon</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pure Python 3 MTProto API Telegram client library, for bots too!</div>
@@ -2412,7 +2412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gram-js/gramjs</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NodeJS/Browser MTProto API Telegram client library,</div>
@@ -2465,7 +2465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tdlib/td</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform library for building Telegram clients</div>
@@ -2518,7 +2518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>azkadev/telegram_client</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">library for help you make userbot or bot telegram and support tdlib telegram database and only support nodejs dart and google-apps-script</div>
@@ -2608,7 +2608,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2022, 14:09:24 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 15:12:21 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
