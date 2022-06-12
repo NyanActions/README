@@ -2364,7 +2364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zpao/qrcode.react</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A &lt;QRCode/&gt; component for use with React.</div>
@@ -2417,7 +2417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discord/cloudflare-sample-app</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example discord bot using Cloudflare Workers</div>
@@ -2470,7 +2470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discord/heroku-sample-app</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example discord bot using Heroku</div>
@@ -2523,7 +2523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discord/discord-example-app</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Basic Discord app with examples</div>
@@ -2613,7 +2613,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2022, 05:11:39 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 13 Jun 2022, 06:08:42 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
