@@ -2333,7 +2333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fluential/ffmpeg-restreamer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A quick ffmpeg restreamer with passthrough copy, no transcoding. Great for low CPU run on railway.app</div>
@@ -2380,7 +2380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lapce/lapce</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightning-fast and Powerful Code Editor written in Rust</div>
@@ -2433,7 +2433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devtomio/action-railway</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A github action for deploying to railway.</div>
@@ -2570,7 +2570,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2022, 18:16:28 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 21 Jun 2022, 19:16:08 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
