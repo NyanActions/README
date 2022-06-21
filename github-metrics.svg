@@ -2333,7 +2333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Zomatree/Revolt-Client</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A revolt client made in rust</div>
@@ -2380,7 +2380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>univrsal/input-overlay</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Show keyboard, gamepad and mouse input on stream</div>
@@ -2433,7 +2433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fluential/ffmpeg-restreamer</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A quick ffmpeg restreamer with passthrough copy, no transcoding. Great for low CPU run on railway.app</div>
@@ -2480,7 +2480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lapce/lapce</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightning-fast and Powerful Code Editor written in Rust</div>
@@ -2570,7 +2570,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2022, 06:09:19 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 22 Jun 2022, 07:10:03 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
