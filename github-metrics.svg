@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mete0r/pyhwp</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.hwp file format v5 parser in python</div>
@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blackgate/AMDGPUWakeHandler</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kext for disabling a failed AMD GPU after waking up from sleep.</div>
@@ -2428,7 +2428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Elringus/DotNetJS</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Consume C# in JavaScript with comfort: single-file UMD library, auto-generated 2-way bindings and type definitions</div>
@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cs50/extension-uninstaller.vsix</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2572,7 +2572,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jul 2022, 18:11:25 (timezone Asia/Seoul) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 11 Jul 2022, 19:12:04 (timezone Asia/Seoul) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
