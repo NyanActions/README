@@ -2401,7 +2401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pushfq/osu-auth-reader</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Read portions of the raw token from osu's anticheat.</div>
@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Telegram-FOSS-Team/Telegram-FOSS</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial, FOSS-friendly fork of the original Telegram client for Android</div>
@@ -2501,7 +2501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jasongin/nvs</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js</div>
@@ -2591,7 +2591,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 12:44:02 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 13:38:46 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
